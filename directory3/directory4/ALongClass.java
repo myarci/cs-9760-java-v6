@@ -1,4 +1,4 @@
-package directory3.directory2;
+package directory3.directory4;
 
 public class ALongClass {
 
